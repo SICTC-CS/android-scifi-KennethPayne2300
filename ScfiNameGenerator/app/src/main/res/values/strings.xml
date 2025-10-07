@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SciFi Name Generator</string>
+    <string name="character">Character</string>
+    <string name="fav_character_name">Fav Character name</string>
+    <string name="generate">Generate</string>
+    <string name="name_of_fav_food">Name of Fav Food</string>
+    <string name="food">Food</string>
+    <string name="the_name_of_your_school">The name of your school</string>
+    <string name="school">School</string>
+    <string name="the_name_of_your_city">The name of your city</string>
+    <string name="city">City</string>
+    <string name="your_last_name">Your last name</string>
+    <string name="last_name">Last Name</string>
+    <string name="your_first_name">Your first name</string>
+    <string name="first_name">First Name</string>
+</resources>
